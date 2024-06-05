@@ -114,7 +114,7 @@
 
 ### King Price Insurance
 <p>
-  <img src="logos/KingPrice.jpg" alt="King Price Insurance logo" style="width: 60px; height: 60px; border-radius: 50%; margin-right: 10px;">
+  <img src="logos/KingPrice.jpg" alt="King Price Insurance logo" style="width: 60px; height: 60px; border-radius: 50%; margin-right: 10px;"><br>
   <strong>Junior Full-Stack Software Developer</strong><br>
   King Price Insurance · Full-time<br>
   Jan 2024 - Present · 6 mos<br>
@@ -123,7 +123,7 @@
 
 ### Quant Engineering Solutions
 <p>
-  <img src="logos/QuantEngineeringSolutions.jpg" alt="Quant Engineering Solutions logo" style="width: auto; height: 60px; border-radius: 50%; margin-right: 10px;">
+  <img src="logos/QuantEngineeringSolutions.jpg" alt="Quant Engineering Solutions logo" style="width: auto; height: 60px; border-radius: 50%; margin-right: 10px;"><br>
   <strong>Junior Full-Stack Software Developer</strong><br>
   Quant Engineering Solutions · Full-time<br>
   Feb 2022 - Dec 2023 · 1 yr 11 mos<br>
@@ -132,7 +132,7 @@
 
 ### GoodX Software
 <p>
-  <img src="logos/GoodX.jpg" alt="GoodX Software logo" style="width: auto; height: 60px; border-radius: 50%; margin-right: 10px;">
+  <img src="logos/GoodX.jpg" alt="GoodX Software logo" style="width: auto; height: 60px; border-radius: 50%; margin-right: 10px;"><br>
   <strong>Technical Support Agent</strong><br>
   GoodX Software · Full-time · 1 yr 8 mos<br>
   Apr 2021 - Feb 2022 · 11 mos<br>
@@ -141,7 +141,7 @@
 </p>
 
 <p>
-  <img src="logos/GoodX.jpg" alt="GoodX Software logo" style="width: auto; height: 60px; border-radius: 50%; margin-right: 10px;">
+  <img src="logos/GoodX.jpg" alt="GoodX Software logo" style="width: auto; height: 60px; border-radius: 50%; margin-right: 10px;"><br>
   <strong>Customer Service Representative</strong><br>
   GoodX Software · Full-time · 9 mos<br>
   Jul 2020 - Mar 2021 · 9 mos<br>
