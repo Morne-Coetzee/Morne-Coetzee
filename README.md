@@ -73,7 +73,11 @@ I'm a passionate software developer from South Africa, with a keen interest in c
 
 <p>
 - <img src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart" height="25" width="auto"/> I want to develop mobile apps that work super well
+</p>
+<p>
 - <img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter" height="25" width="auto"/> Great for multi platform app development
+</p>
+<p>
 - <img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure" height="25" width="auto"/> I know the basics and can help myself, but I want to know more
 </p>
 
