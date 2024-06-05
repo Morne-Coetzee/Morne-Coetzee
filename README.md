@@ -96,8 +96,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morne-Coetzee&layout=compact&theme=blueberry" alt="Morné's Top Languages" style="width: 48%; display: inline-block;">
 </p>
 </p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Morne-Coetzee&show_icons=true&theme=blueberry" alt="Morné's GitHub Stats" style="width: 48%; display: inline-block;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Morne-Coetzee&theme=blueberry" alt="Morné's Profile Summary" style="width: 48%;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Morne-Coetzee&theme=blueberry" alt="Morné's Profile Summary" style="width: 96%;">
 </p>
 
 ## 📫 How to Reach Me
