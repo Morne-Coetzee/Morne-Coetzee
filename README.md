@@ -1,13 +1,13 @@
 # Hello, I'm Morné 👋 
 <a href="https://www.linkedin.com/in/morn%C3%A9-c-39087314a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn" style="width: auto; height: 25px; border-radius: 50%; display: inline-flex; justify-content: center; align-items: center;">
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn" style="width: auto; height: 30px; border-radius: 50%; display: inline-flex; justify-content: center; align-items: center;">
 </a>
 <p>
     I'm a passionate software developer from South Africa, with a keen interest in creating impactful software solutions and making a difference in the tech community. My  passion is to create beautiful responsive front-ends with industry standard robust back-ends. Welcome to my GitHub profile! Feel free to reach out!
 </p>
 
-## 🚀 Full Stack Software Developer
-## 📈 Current level: Junior
+# 🚀 Full Stack Software Developer
+# 📈 Current level: Junior
 
 ## ✅ About Me
 
@@ -108,6 +108,45 @@
   <a href="mailto:morne.mornecoetzee@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail" alt="Email" style="width: auto; height: 40px; border-radius: 50%; display: inline-flex; justify-content: center; align-items: center;">
   </a>
+</p>
+
+## 🧑‍💼 Experience
+
+### King Price Insurance
+<p>
+  <img src="logos/KingPrice.jpg" alt="King Price Insurance logo" style="width: 60px; height: 60px; border-radius: 50%; margin-right: 10px;">
+  <strong>Junior Full-Stack Software Developer</strong><br>
+  King Price Insurance · Full-time<br>
+  Jan 2024 - Present · 6 mos<br>
+  Pretoria, Gauteng, South Africa · Hybrid
+</p>
+
+### Quant Engineering Solutions
+<p>
+  <img src="logos/QuantEngineeringSolutions.jpg" alt="Quant Engineering Solutions logo" style="width: auto; height: 60px; border-radius: 50%; margin-right: 10px;">
+  <strong>Junior Full-Stack Software Developer</strong><br>
+  Quant Engineering Solutions · Full-time<br>
+  Feb 2022 - Dec 2023 · 1 yr 11 mos<br>
+  Pretoria, Gauteng, South Africa
+</p>
+
+### GoodX Software
+<p>
+  <img src="logos/GoodX.jpg" alt="GoodX Software logo" style="width: auto; height: 60px; border-radius: 50%; margin-right: 10px;">
+  <strong>Technical Support Agent</strong><br>
+  GoodX Software · Full-time · 1 yr 8 mos<br>
+  Apr 2021 - Feb 2022 · 11 mos<br>
+  Pretoria, Gauteng, South Africa<br>
+  Technical Support for FCL's and Company Clients
+</p>
+
+<p>
+  <img src="logos/GoodX.jpg" alt="GoodX Software logo" style="width: auto; height: 60px; border-radius: 50%; margin-right: 10px;">
+  <strong>Customer Service Representative</strong><br>
+  GoodX Software · Full-time · 9 mos<br>
+  Jul 2020 - Mar 2021 · 9 mos<br>
+  Pretoria, Gauteng, South Africa<br>
+  First Client Laison
 </p>
 
 ---
