@@ -92,12 +92,12 @@
 ## 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morne-Coetzee&theme=blueberry" alt="Morné's GitHub Streak Stats" style="width: 33%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morne-Coetzee&layout=compact&theme=blueberry" alt="Morné's Top Languages" style="width: 33%; display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Morne-Coetzee&show_icons=true&theme=blueberry" alt="Morné's GitHub Stats" style="width: 33%; display: inline-block;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morne-Coetzee&theme=blueberry" alt="Morné's GitHub Streak Stats" style="width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morne-Coetzee&layout=compact&theme=blueberry" alt="Morné's Top Languages" style="width: 50%; display: inline-block;">
 </p>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Morne-Coetzee&theme=blueberry" alt="Morné's Profile Summary" style="width: 100%;">
+</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Morne-Coetzee&show_icons=true&theme=blueberry" alt="Morné's GitHub Stats" style="width: 40%; display: inline-block;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Morne-Coetzee&theme=blueberry" alt="Morné's Profile Summary" style="width: 60%;">
 </p>
 
 ## 📫 How to Reach Me
