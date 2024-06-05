@@ -1,8 +1,10 @@
 # Hello, I'm Morné 👋 
 <a href="https://www.linkedin.com/in/morn%C3%A9-c-39087314a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn" style="width: auto; height: 40px; border-radius: 50%; display: inline-flex; justify-content: center; align-items: center;">
-  </a>
-I'm a passionate software developer from South Africa, with a keen interest in creating impactful software solutions and making a difference in the tech community. My passion is to create beautiful responsive front-ends with industry standard robust back-ends. Welcome to my GitHub profile! Feel free to reach out!
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn" style="width: auto; height: 25px; border-radius: 50%; display: inline-flex; justify-content: center; align-items: center;">
+</a>
+<p>
+    I'm a passionate software developer from South Africa, with a keen interest in creating impactful software solutions and making a difference in the tech community. My  passion is to create beautiful responsive front-ends with industry standard robust back-ends. Welcome to my GitHub profile! Feel free to reach out!
+</p>
 
 ## 🚀 Full Stack Software Developer
 ## 📈 Current level: Junior
