@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hello, I'm Morné 👋
 
-<!--
-**Morne-Coetzee/Morne-Coetzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer from South Africa, with a keen interest in creating impactful software solutions and making a difference in the tech community. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 I'm based in South Africa
+- 🎓 I take Christianity seriously and actively participate in church activities
+- 🗣️ I lead a U-group and deliver weekly messages
+- 💰 I'm keen to make a lot of money and continuously improve my skills
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+
+### Frameworks & Libraries
+
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![VSCode](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
+![REST API](https://img.shields.io/badge/-REST%20API-black?style=flat-square&logo=rest-api)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+
+## 🌱 Currently Learning
+
+- Advanced TypeScript
+- Cloud-native development with Kubernetes
+- Microservices architecture
+- Machine Learning with Python
+
+## 📈 My GitHub Stats
+
+![Morné's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+
+- *LinkedIn:* [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- *Twitter:* [Your Twitter Handle](https://twitter.com/your-handle)
+- *Email:* [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+I'm always open to new opportunities and collaborations. Feel free to reach out to me if you have any exciting projects or just want to connect!
