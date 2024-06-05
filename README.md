@@ -6,8 +6,8 @@
     I'm a passionate software developer from South Africa, with a keen interest in creating impactful software solutions and making a difference in the tech community. My  passion is to create beautiful responsive front-ends with industry standard robust back-ends. Welcome to my GitHub profile! Feel free to reach out!
 </p>
 
-# 🚀 Full Stack Software Developer
-# 📈 Current level: Junior
+### 🚀 Full Stack Software Developer
+### 📈 Current level: Junior
 
 ## ✅ About Me
 
@@ -127,7 +127,7 @@
   <strong>Junior Full-Stack Software Developer</strong><br>
   Quant Engineering Solutions · Full-time<br>
   Feb 2022 - Dec 2023 · 1 yr 11 mos<br>
-  Pretoria, Gauteng, South Africa
+  Pretoria, Gauteng, South Africa · Hybrid
 </p>
 
 ### GoodX Software
