@@ -59,7 +59,7 @@ I'm a passionate software developer from South Africa, with a keen interest in c
 - *Threads:* [morne_ctz](https://www.threads.net/@morne_ctz)
 - *Instagram:* [morne_ctz](https://www.instagram.com/morne_ctz?igsh=MWFwYnUyMnVvcXNsZg%3D%3D&utm_source=qr)
 - *Email:* [morne.mornecoetzee@gmail.com](mailto:morne.mornecoetzee@gmail.com)
-- *Call:* [0761884899](tel:0761884899)
+- *Call:* [0761884899](<a href="0761884899")
 
 ---
 
