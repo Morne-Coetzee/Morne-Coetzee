@@ -89,16 +89,16 @@ I'm a passionate software developer from South Africa, with a keen interest in c
 
 <p>
   <a href="https://www.linkedin.com/in/morn%C3%A9-c-39087314a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn" style="width: auto; height: 60px; border-radius: 50%; display: inline-flex; justify-content: center; align-items: center;">
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn" style="width: auto; height: 40px; border-radius: 50%; display: inline-flex; justify-content: center; align-items: center;">
   </a>
   <a href="https://www.threads.net/@morne_ctz" target="_blank">
-    <img src="https://img.shields.io/badge/-Threads-black?style=flat-square&logo=threads" alt="Threads" style="width: auto; height: 60px; border-radius: 50%; display: inline-flex; justify-content: center; align-items: center;">
+    <img src="https://img.shields.io/badge/-Threads-black?style=flat-square&logo=threads" alt="Threads" style="width: auto; height: 40px; border-radius: 50%; display: inline-flex; justify-content: center; align-items: center;">
   </a>
   <a href="https://www.instagram.com/morne_ctz?igshid=MWFwYnUyMnVvcXNsZg%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram" alt="Instagram" style="width: auto; height: 60px; border-radius: 50%; display: inline-flex; justify-content: center; align-items: center;">
+    <img src="https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram" alt="Instagram" style="width: auto; height: 40px; border-radius: 50%; display: inline-flex; justify-content: center; align-items: center;">
   </a>
   <a href="mailto:morne.mornecoetzee@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail" alt="Email" style="width: auto; height: 60px; border-radius: 50%; display: inline-flex; justify-content: center; align-items: center;">
+    <img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail" alt="Email" style="width: auto; height: 40px; border-radius: 50%; display: inline-flex; justify-content: center; align-items: center;">
   </a>
 </p>
 
