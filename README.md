@@ -72,13 +72,13 @@ I'm a passionate software developer from South Africa, with a keen interest in c
 ## 🌱 Currently Learning
 
 <p>
-- <img src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart" height="25" width="auto"/> I want to develop mobile apps that work super well
+<img src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart" height="25" width="auto"/> I want to develop mobile apps that work super well
 </p>
 <p>
-- <img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter" height="25" width="auto"/> Great for multi platform app development
+<img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter" height="25" width="auto"/> Great for multi platform app development
 </p>
 <p>
-- <img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure" height="25" width="auto"/> I know the basics and can help myself, but I want to know more
+<img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure" height="25" width="auto"/> I know the basics and can help myself, but I want to know more
 </p>
 
 ## 📈 My GitHub Stats
@@ -87,10 +87,20 @@ I'm a passionate software developer from South Africa, with a keen interest in c
 
 ## 📫 How to Reach Me
 
-- *LinkedIn:* [Morne Coetzee](https://www.linkedin.com/in/morn%C3%A9-c-39087314a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- *Threads:* [morne_ctz](https://www.threads.net/@morne_ctz)
-- *Instagram:* [morne_ctz](https://www.instagram.com/morne_ctz?igsh=MWFwYnUyMnVvcXNsZg%3D%3D&utm_source=qr)
-- *Email:* [morne.mornecoetzee@gmail.com](mailto:morne.mornecoetzee@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/morn%C3%A9-c-39087314a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" style="width: 50px; height: 50px; border-radius: 50%;"/>
+  </a>
+  <a href="https://www.threads.net/@morne_ctz" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/threads.png" alt="Threads" style="width: 50px; height: 50px; border-radius: 50%;"/>
+  </a>
+  <a href="https://www.instagram.com/morne_ctz?igshid=MWFwYnUyMnVvcXNsZg%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" style="width: 50px; height: 50px; border-radius: 50%;"/>
+  </a>
+  <a href="mailto:morne.mornecoetzee@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" style="width: 50px; height: 50px; border-radius: 50%;"/>
+  </a>
+</p>
 
 ---
 
