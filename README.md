@@ -51,13 +51,15 @@ I'm a passionate software developer from South Africa, with a keen interest in c
 
 ## 📈 My GitHub Stats
 
-![Morné's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Morné's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morne-Coetzee&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
-- *LinkedIn:* [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- *Twitter:* [Your Twitter Handle](https://twitter.com/your-handle)
-- *Email:* [your-email@example.com](mailto:your-email@example.com)
+- *LinkedIn:* [Morne Coetzee](https://www.linkedin.com/in/morn%C3%A9-c-39087314a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- *Threads:* [morne_ctz](https://www.threads.net/@morne_ctz)
+- *Instagram:* [morne_ctz](https://www.instagram.com/morne_ctz?igsh=MWFwYnUyMnVvcXNsZg%3D%3D&utm_source=qr)
+- *Email:* [morne.mornecoetzee@gmail.com](mailto:morne.mornecoetzee@gmail.com)
+- *Call:* [0761884899](tel:0761884899)
 
 ---
 
