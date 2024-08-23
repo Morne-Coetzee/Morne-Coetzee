@@ -14,7 +14,6 @@
 - 🌍 I'm based in Pretoria, South Africa
 - 🎓 I love to keep learning and stagnation is my worst enemy
 - 💡 I love problem solving, troubleshooting and crafting a solution to a problem
-- 
 - 💪 I always work hard, give my best and do everything I do to the best of my ability
 
 ## 💻 Tech Stack
@@ -123,7 +122,7 @@
   <img src="logos/KingPrice.jpg" alt="King Price Insurance logo" style="width: 60px; height: 60px; border-radius: 50%; margin-right: 10px;"><br>
   <strong>Junior Full-Stack Software Developer</strong><br>
   King Price Insurance · Full-time<br>
-  Jan 2024 - Present · 6 mos<br>
+  Jan 2024 - Present · 8 mos<br>
   Pretoria, Gauteng, South Africa · Hybrid
 </p>
 
