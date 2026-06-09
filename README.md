@@ -7,7 +7,7 @@
 </p>
 
 ### 🚀 Full Stack Software Developer
-### 📈 Current level: Junior
+### 📈 Current level: Junior-Intermediate 
 
 ## ✅ About Me
 
